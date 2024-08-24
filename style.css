@@ -57,7 +57,7 @@ body {
 }
 
 .contact-info a {
-  display: block;
+  display: flex;
   color: #fff;
   text-decoration: none;
   margin-bottom: 10px;
